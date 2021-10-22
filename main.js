@@ -48,7 +48,7 @@ function sorting(){
 
     for(var e = 0; e< length_of_array2; e++){
 
-        sort_display.push(name_of_student);
+        sort_display.push(name_of_student[k]);
         console.log(sort_display);
     }
 
